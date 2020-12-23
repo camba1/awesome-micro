@@ -23,7 +23,7 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micr
 - [Source](https://github.com/micro/micro) - The source code for Micro
 - [Services](https://github.com/micro/services) - Example Micro services
 - [Sponsors](https://github.com/sponsors/micro) - GitHub sponsorship for maintainers
-- [Twitter](https://twitter.com/microhq) - The twitter account for updates
+- [Twitter](https://twitter.com/m3oservices) - The twitter account for updates
 
 ## Organizations
 
