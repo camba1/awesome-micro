@@ -48,12 +48,17 @@ Awesome Micro is a place to submit awesome [Micro](https://github.com/micro/micr
 - [Pydio Cells](https://github.com/pydio/cells) [![Stars](https://img.shields.io/github/stars/pydio/cells.svg)](https://github.com/pydio/cells) - Future proof content sharing platform
 - [Shippy](https://github.com/EwanValentine/shippy) [![Stars](https://img.shields.io/github/stars/EwanValentine/shippy.svg)](https://github.com/EwanValentine/shippy) - The code for Microservices in Golang tutorial
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [goTemp](https://github.com/camba1/gotemp) [![Lint](https://goreportcard.com/badge/github.com/camba1/gotemp)](https://goreportcard.com/report/github.com/camba1/gotemp) - Full stack Golang microservices sample application built using the **go-Micro framework**. Project uses 5 microservices, 3 databases (PostgreSQL, TimescaleDB and ArangoDB) , Redis for caching, NATS as broker and a Svelte frontend
 - [goTempM](https://github.com/camba1/gotempm) [![Lint](https://goreportcard.com/badge/github.com/camba1/gotempm)](https://goreportcard.com/report/github.com/camba1/gotempm) - Sample full stack microservices application built and managed using the **Micro platform**. Project uses 5 microservices, 3 databases (PostgreSQL, TimescaleDB and ArangoDB) , Redis for caching, NATS as broker and a Svelte frontend
 =======
 - [goTemp](https://bitbucket.org/Bolbeck/gotemp) [![Lint](https://goreportcard.com/badge/bitbucket.org/Bolbeck/gotemp)](https://goreportcard.com/report/bitbucket.org/Bolbeck/gotemp) - Full stack Golang microservices sample application built using the **go-Micro framework**. Project uses five microservices, 3 databases (PostgreSQL, TimescaleDB and ArangoDB) , Redis for caching, NATS as broker and a Svelte frontend
 - [goTempM](https://bitbucket.org/Bolbeck/gotempm) [![Lint](https://goreportcard.com/badge/bitbucket.org/Bolbeck/gotempm)](https://goreportcard.com/report/bitbucket.org/Bolbeck/gotempm) - Sample full stack microservices application built and managed using the **Micro platform**. Project uses five microservices, 3 databases (PostgreSQL, TimescaleDB and ArangoDB) , Redis for caching, NATS as broker and a Svelte frontend
 >>>>>>> Added details to goTemp and a new entry for goTempM
+=======
+- [goTemp](https://bitbucket.org/Bolbeck/gotemp) [![Lint](https://goreportcard.com/badge/bitbucket.org/Bolbeck/gotemp)](https://goreportcard.com/report/bitbucket.org/Bolbeck/gotemp) - Full stack Golang microservices sample application built using the **go-Micro framework**. Project uses 5 microservices, 3 databases (PostgreSQL, TimescaleDB and ArangoDB) , Redis for caching, NATS as broker and a Svelte frontend
+- [goTempM](https://bitbucket.org/Bolbeck/gotempm) [![Lint](https://goreportcard.com/badge/bitbucket.org/Bolbeck/gotempm)](https://goreportcard.com/report/bitbucket.org/Bolbeck/gotempm) - Sample full stack microservices application built and managed using the **Micro platform**. Project uses 5 microservices, 3 databases (PostgreSQL, TimescaleDB and ArangoDB) , Redis for caching, NATS as broker and a Svelte frontend
+>>>>>>> clean up
 
 ## Tutorials
 
